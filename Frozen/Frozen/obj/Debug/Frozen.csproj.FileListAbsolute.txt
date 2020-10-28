@@ -1,0 +1,15 @@
+D:\HBO ICT\Frozen\Frozen\bin\Debug\Frozen.exe.config
+D:\HBO ICT\Frozen\Frozen\bin\Debug\Frozen.exe
+D:\HBO ICT\Frozen\Frozen\bin\Debug\Frozen.pdb
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.csprojAssemblyReference.cache
+D:\HBO ICT\Frozen\Frozen\obj\Debug\MainWindow.g.cs
+D:\HBO ICT\Frozen\Frozen\obj\Debug\App.g.cs
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen_MarkupCompile.cache
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen_MarkupCompile.lref
+D:\HBO ICT\Frozen\Frozen\obj\Debug\MainWindow.baml
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.g.resources
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.Properties.Resources.resources
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.csproj.GenerateResource.cache
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.csproj.CoreCompileInputs.cache
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.exe
+D:\HBO ICT\Frozen\Frozen\obj\Debug\Frozen.pdb
