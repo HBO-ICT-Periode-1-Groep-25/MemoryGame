@@ -1,0 +1,61 @@
+﻿<Page x:Class="MemoryGame.Scorebord"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MemoryGame"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="Scorebord">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Background.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.7*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="0.1*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Row="1" Source="Images/Logo.png"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="1" FontSize="100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="2" FontSize="100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="3" FontSize="100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="4" FontSize="100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="7" Grid.Column="0" Text="5" FontSize="100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+
+        <TextBox Margin="30 20 20 20" Grid.Row="3" Grid.Column="1"/>
+        <TextBox Margin="10 20 250 20" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+        <TextBox Margin="30 20 20 20" Grid.Row="4" Grid.Column="1"/>
+        <TextBox Margin="10 20 250 20" Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+        <TextBox Margin="30 20 20 20" Grid.Row="5" Grid.Column="1"/>
+        <TextBox Margin="10 20 250 20" Grid.Row="5" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+        <TextBox Margin="30 20 20 20" Grid.Row="6" Grid.Column="1"/>
+        <TextBox Margin="10 20 250 20" Grid.Row="6" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+        <TextBox Margin="30 20 20 20" Grid.Row="7" Grid.Column="1"/>
+        <TextBox Margin="10 20 250 20" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Page>

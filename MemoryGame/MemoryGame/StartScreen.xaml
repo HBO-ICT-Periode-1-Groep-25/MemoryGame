@@ -1,0 +1,33 @@
+﻿<Page x:Class="MemoryGame.StartScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MemoryGame"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="StartScreen">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Background.jpg"/>
+        </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                
+            </Grid.RowDefinitions>
+        
+        <Image Grid.Row="1" Source="Images/Logo.png"/>
+
+        <Button x:Name="StartButton" Click="StartButton_Click" Margin="500 10" Grid.Row="2" Content="Start" FontSize="80" Background="#FF6EABC7"/>
+        <Button x:Name="ScoreButton" Click="ScoreButton_Click" Margin="500 10" Grid.Row="3" Content="Scorebord" FontSize="80" Background="#FF6EABC7"/>
+        <Button x:Name="SaveButton" Click="SaveButton_Click" Margin="500 10" Grid.Row="4" Content="Opgeslagen Spellen" FontSize="80" Background="#FF6EABC7"/>
+        <Button x:Name="ThemeButton" Click="ThemeButton_Click" Margin="500 10" Grid.Row="5" Content="Thema's" FontSize="80" Background="#FF6EABC7"/>
+    </Grid>
+</Page>
