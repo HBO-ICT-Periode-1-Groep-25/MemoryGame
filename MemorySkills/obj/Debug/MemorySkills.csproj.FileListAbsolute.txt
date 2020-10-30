@@ -1,0 +1,15 @@
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\bin\Debug\MemorySkills.exe.config
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\bin\Debug\MemorySkills.exe
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\bin\Debug\MemorySkills.pdb
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.csprojAssemblyReference.cache
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MainWindow.g.cs
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills_MarkupCompile.cache
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills_MarkupCompile.lref
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MainWindow.baml
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.g.resources
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.Properties.Resources.resources
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.csproj.GenerateResource.cache
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.csproj.CoreCompileInputs.cache
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.exe
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\MemorySkills.pdb
+C:\Users\Boris\OneDrive - NHL Stenden\Documents\School ict\Programmeren\Memory game skills\MemorySkills\MemorySkills\obj\Debug\App.g.cs
